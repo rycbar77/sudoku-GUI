@@ -1,6 +1,7 @@
 # sudoku-GUI
 ### A sudoku program using Qt5 with mingw
 ### Tested On Windows！
+## Try and have fun!
 ## Here are some pictures
 ![11.png](https://www.z4a.net/images/2019/01/27/11.png)
 ![9.png](https://www.z4a.net/images/2019/01/27/9.png)
